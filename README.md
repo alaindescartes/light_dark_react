@@ -1,3 +1,14 @@
+# Dark and Light Theme Toggle
+
+The `Color` component allows users to switch between a dark and a light theme within a React application. It uses local storage to persist the user's theme preference across sessions, enhancing the user experience by maintaining consistent visual preferences.
+
+## Features
+
+- **Theme Toggling**: Users can switch between a dark and a light theme with a single button click.
+- **Persistence**: Theme preferences are saved to local storage, so the theme persists even after the browser is closed or refreshed.
+- **Dynamic Styling**: The component adjusts its CSS styles based on the current theme, providing immediate visual feedback.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
